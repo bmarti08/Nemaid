@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<sample>
+  <remarks>dsd</remarks>
+  <date>2015-02-04</date>
+  <char name="ultricies ligula. Nullam enim. Sed">
+    <value value="ultricies ligula. Nullam enim. Sed_v">NULL</value>
+    <weight weight="ultricies ligula. Nullam enim. Sed_w">155</weight>
+    <correction correction="ultricies ligula. Nullam enim. Sed_c">27</correction>
+    <range/>
+  </char>
+  <char name="sed sem egestas blandit. Nam">
+    <value value="sed sem egestas blandit. Nam_v">NULL</value>
+    <weight weight="sed sem egestas blandit. Nam_w">143</weight>
+    <correction correction="sed sem egestas blandit. Nam_c">11</correction>
+    <range/>
+  </char>
+  <char name="justo faucibus lectus, a sollicitudin orci sem">
+    <value value="justo faucibus lectus, a sollicitudin orci sem_v">NULL</value>
+    <weight weight="justo faucibus lectus, a sollicitudin orci sem_w">48</weight>
+    <correction correction="justo faucibus lectus, a sollicitudin orci sem_c">35</correction>
+    <range/>
+  </char>
+  <char name="lacus, varius et, euismod et, commodo at, libero.">
+    <value value="lacus, varius et, euismod et, commodo at, libero._v">NULL</value>
+    <weight weight="lacus, varius et, euismod et, commodo at, libero._w">80</weight>
+    <correction correction="lacus, varius et, euismod et, commodo at, libero._c">40</correction>
+    <range/>
+  </char>
+  <char name="et magnis dis parturient montes, nascetur ridiculus mus. Proin vel">
+    <value value="et magnis dis parturient montes, nascetur ridiculus mus. Proin vel_v">NULL</value>
+    <weight weight="et magnis dis parturient montes, nascetur ridiculus mus. Proin vel_w">250</weight>
+    <correction correction="et magnis dis parturient montes, nascetur ridiculus mus. Proin vel_c">29</correction>
+    <range/>
+  </char>
+  <char name="aliquet.">
+    <value value="aliquet._v">NULL</value>
+    <weight weight="aliquet._w">31</weight>
+    <correction correction="aliquet._c">44</correction>
+    <range/>
+  </char>
+  <char name="elementum purus, accumsan interdum libero">
+    <value value="elementum purus, accumsan interdum libero_v">NULL</value>
+    <weight weight="elementum purus, accumsan interdum libero_w">86</weight>
+    <correction correction="elementum purus, accumsan interdum libero_c">34</correction>
+    <range/>
+  </char>
+  <char name="neque">
+    <value value="neque_v">NULL</value>
+    <weight weight="neque_w">266</weight>
+    <correction correction="neque_c">17</correction>
+    <range/>
+  </char>
+  <char name="sit">
+    <value value="sit_v">NULL</value>
+    <weight weight="sit_w">49</weight>
+    <correction correction="sit_c">4</correction>
+    <range/>
+  </char>
+  <char name="lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie.">
+    <value value="lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie._v">NULL</value>
+    <weight weight="lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie._w">143</weight>
+    <correction correction="lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie._c">4</correction>
+    <range/>
+  </char>
+  <char name="at, nisi. Cum sociis natoque penatibus et magnis">
+    <value value="at, nisi. Cum sociis natoque penatibus et magnis_v">NULL</value>
+    <weight weight="at, nisi. Cum sociis natoque penatibus et magnis_w">100</weight>
+    <correction correction="at, nisi. Cum sociis natoque penatibus et magnis_c">4</correction>
+    <range/>
+  </char>
+  <char name="feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam">
+    <value value="feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam_v">NULL</value>
+    <weight weight="feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam_w">166</weight>
+    <correction correction="feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam_c">10</correction>
+    <range/>
+  </char>
+  <char name="Mauris quis turpis vitae purus gravida sagittis. Duis">
+    <value value="Mauris quis turpis vitae purus gravida sagittis. Duis_v">NULL</value>
+    <weight weight="Mauris quis turpis vitae purus gravida sagittis. Duis_w">265</weight>
+    <correction correction="Mauris quis turpis vitae purus gravida sagittis. Duis_c">39</correction>
+    <range/>
+  </char>
+  <char name="Aenean euismod mauris eu elit. Nulla facilisi. Sed">
+    <value value="Aenean euismod mauris eu elit. Nulla facilisi. Sed_v">NULL</value>
+    <weight weight="Aenean euismod mauris eu elit. Nulla facilisi. Sed_w">264</weight>
+    <correction correction="Aenean euismod mauris eu elit. Nulla facilisi. Sed_c">39</correction>
+    <range/>
+  </char>
+  <char name="ornare tortor at risus. Nunc">
+    <value value="ornare tortor at risus. Nunc_v">NULL</value>
+    <weight weight="ornare tortor at risus. Nunc_w">164</weight>
+    <correction correction="ornare tortor at risus. Nunc_c">28</correction>
+    <range/>
+  </char>
+</sample>

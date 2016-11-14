@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<sample>
+  <remarks></remarks>
+  <date>23/13/2013</date>
+  <char name="LON">
+    <value value="LON_v">1</value>
+    <weight weight="LON_w">0.70</weight>
+    <weight31 weight31="LON_w">0.70</weight31>
+    <correction correction="LON_c">150.00</correction>
+    <correction31 correction31="LON_c">150.00</correction31>
+    <range range="LON_r">835.00</range>
+    <range31 range31="LON_r">835.00</range31>
+  </char>
+  <char name="STY">
+    <value value="STY_v">1</value>
+    <weight weight="STY_w">1.00</weight>
+    <weight31 weight31="STY_w">1.00</weight31>
+    <correction correction="STY_c">3.00</correction>
+    <correction31 correction31="STY_c">3.00</correction31>
+    <range range="STY_r">27.00</range>
+    <range31 range31="STY_r">27.00</range31>
+  </char>
+  <char name="DGO">
+    <value value="DGO_v">1</value>
+    <weight weight="DGO_w">0.30</weight>
+    <weight31 weight31="DGO_w">0.30</weight31>
+    <correction correction="DGO_c">5.00</correction>
+    <correction31 correction31="DGO_c">5.00</correction31>
+    <range range="DGO_r">19.00</range>
+    <range31 range31="DGO_r">19.00</range31>
+  </char>
+  <char name="EXPO">
+    <value value="EXPO_v">1</value>
+    <weight weight="EXPO_w">0.60</weight>
+    <weight31 weight31="EXPO_w">0.60</weight31>
+    <correction correction="EXPO_c">10.00</correction>
+    <correction31 correction31="EXPO_c">10.00</correction31>
+    <range range="EXPO_r">120.00</range>
+    <range31 range31="EXPO_r">120.00</range31>
+  </char>
+  <char name="BAW">
+    <value value="BAW_v">1</value>
+    <weight weight="BAW_w">0.10</weight>
+    <weight31 weight31="BAW_w">0.10</weight31>
+    <correction correction="BAW_c">1.00</correction>
+    <correction31 correction31="BAW_c">1.00</correction31>
+    <range range="BAW_r">2.40</range>
+    <range31 range31="BAW_r">2.40</range31>
+  </char>
+  <char name="TAIL">
+    <value value="TAIL_v">1</value>
+    <weight weight="TAIL_w">0.30</weight>
+    <weight31 weight31="TAIL_w">0.30</weight31>
+    <correction correction="TAIL_c">3.00</correction>
+    <correction31 correction31="TAIL_c">3.00</correction31>
+    <range range="TAIL_r">30.00</range>
+    <range31 range31="TAIL_r">30.00</range31>
+  </char>
+  <char name="TAN">
+    <value value="TAN_v">1</value>
+    <weight weight="TAN_w">0.50</weight>
+    <weight31 weight31="TAN_w">0.50</weight31>
+    <correction correction="TAN_c">13.00</correction>
+    <correction31 correction31="TAN_c">13.00</correction31>
+    <range range="TAN_r">21.00</range>
+    <range31 range31="TAN_r">21.00</range31>
+  </char>
+  <char name="PHAS">
+    <value value="PHAS_v">1</value>
+    <weight weight="PHAS_w">0.70</weight>
+    <weight31 weight31="PHAS_w">0.70</weight31>
+    <correction correction="PHAS_c">6.00</correction>
+    <correction31 correction31="PHAS_c">6.00</correction31>
+    <range range="PHAS_r">37.00</range>
+    <range31 range31="PHAS_r">37.00</range31>
+  </char>
+  <char name="a">
+    <value value="a_v">1</value>
+    <weight weight="a_w">0.30</weight>
+    <weight31 weight31="a_w">0.30</weight31>
+    <correction correction="a_c">8.00</correction>
+    <correction31 correction31="a_c">8.00</correction31>
+    <range range="a_r">24.00</range>
+    <range31 range31="a_r">24.00</range31>
+  </char>
+  <char name="c">
+    <value value="c_v">1</value>
+    <weight weight="c_w">0.10</weight>
+    <weight31 weight31="c_w">0.10</weight31>
+    <correction correction="c_c">15.00</correction>
+    <correction31 correction31="c_c">15.00</correction31>
+    <range range="c_r">81.00</range>
+    <range31 range31="c_r">81.00</range31>
+  </char>
+  <char name="c_bis">
+    <value value="c_bis_v">1</value>
+    <weight weight="c_bis_w">0.60</weight>
+    <weight31 weight31="c_bis_w">0.60</weight31>
+    <correction correction="c_bis_c">0.50</correction>
+    <correction31 correction31="c_bis_c">0.50</correction31>
+    <range range="c_bis_r">2.00</range>
+    <range31 range31="c_bis_r">2.00</range31>
+  </char>
+  <char name="m">
+    <value value="m_v">1</value>
+    <weight weight="m_w">0.80</weight>
+    <weight31 weight31="m_w">0.80</weight31>
+    <correction correction="m_c">4.00</correction>
+    <correction31 correction31="m_c">4.00</correction31>
+    <range range="m_r">19.00</range>
+    <range31 range31="m_r">19.00</range31>
+  </char>
+  <char name="v">
+    <value value="v_v">1</value>
+    <weight weight="v_w">1.00</weight>
+    <weight31 weight31="v_w">1.00</weight31>
+    <correction correction="v_c">2.00</correction>
+    <correction31 correction31="v_c">2.00</correction31>
+    <range range="v_r">39.90</range>
+    <range31 range31="v_r">39.90</range31>
+  </char>
+  <char name="SPIC">
+    <value value="SPIC_v">1</value>
+    <weight weight="SPIC_w">0.70</weight>
+    <weight31 weight31="SPIC_w">0.70</weight31>
+    <correction correction="SPIC_c">3.00</correction>
+    <correction31 correction31="SPIC_c">3.00</correction31>
+    <range range="SPIC_r">20.00</range>
+    <range31 range31="SPIC_r">20.00</range31>
+  </char>
+  <char name="MALES">
+    <value value="MALES_v">0.5</value>
+    <weight weight="MALES_w">0.90</weight>
+    <weight31 weight31="MALES_w">0.90</weight31>
+    <correction correction="MALES_c">0.05</correction>
+    <correction31 correction31="MALES_c">0.05</correction31>
+    <range range="MALES_r">1.00</range>
+    <range31 range31="MALES_r">1.00</range31>
+  </char>
+  <char name="DISC">
+    <value value="DISC_v">0.5</value>
+    <weight weight="DISC_w">0.80</weight>
+    <weight31 weight31="DISC_w">0.80</weight31>
+    <correction correction="DISC_c">0.10</correction>
+    <correction31 correction31="DISC_c">0.10</correction31>
+    <range range="DISC_r">1.00</range>
+    <range31 range31="DISC_r">1.00</range31>
+  </char>
+  <char name="CAN">
+    <value value="CAN_v">0.5</value>
+    <weight weight="CAN_w">0.90</weight>
+    <weight31 weight31="CAN_w">0.90</weight31>
+    <correction correction="CAN_c">0.20</correction>
+    <correction31 correction31="CAN_c">0.20</correction31>
+    <range range="CAN_r">1.00</range>
+    <range31 range31="CAN_r">1.00</range31>
+  </char>
+  <char name="HAB1">
+    <value value="HAB1_v">0.5</value>
+    <weight weight="HAB1_w">0.90</weight>
+    <weight31 weight31="HAB1_w">0.90</weight31>
+    <correction correction="HAB1_c">0.20</correction>
+    <correction31 correction31="HAB1_c">0.20</correction31>
+    <range range="HAB1_r">1.00</range>
+    <range31 range31="HAB1_r">1.00</range31>
+  </char>
+  <char name="HAB2">
+    <value value="HAB2_v">0.5</value>
+    <weight weight="HAB2_w">0.90</weight>
+    <weight31 weight31="HAB2_w">0.90</weight31>
+    <correction correction="HAB2_c">0.20</correction>
+    <correction31 correction31="HAB2_c">0.20</correction31>
+    <range range="HAB2_r">1.00</range>
+    <range31 range31="HAB2_r">1.00</range31>
+  </char>
+  <char name="LIP1">
+    <value value="LIP1_v">0.5</value>
+    <weight weight="LIP1_w">0.90</weight>
+    <weight31 weight31="LIP1_w">0.90</weight31>
+    <correction correction="LIP1_c">0.10</correction>
+    <correction31 correction31="LIP1_c">0.10</correction31>
+    <range range="LIP1_r">1.00</range>
+    <range31 range31="LIP1_r">1.00</range31>
+  </char>
+  <char name="LIP2">
+    <value value="LIP2_v">0.5</value>
+    <weight weight="LIP2_w">0.90</weight>
+    <weight31 weight31="LIP2_w">0.90</weight31>
+    <correction correction="LIP2_c">0.10</correction>
+    <correction31 correction31="LIP2_c">0.10</correction31>
+    <range range="LIP2_r">1.00</range>
+    <range31 range31="LIP2_r">1.00</range31>
+  </char>
+  <char name="INC1">
+    <value value="INC1_v">0.5</value>
+    <weight weight="INC1_w">0.80</weight>
+    <weight31 weight31="INC1_w">0.80</weight31>
+    <correction correction="INC1_c">0.10</correction>
+    <correction31 correction31="INC1_c">0.10</correction31>
+    <range range="INC1_r">1.00</range>
+    <range31 range31="INC1_r">1.00</range31>
+  </char>
+  <char name="INC2">
+    <value value="INC2_v">0.5</value>
+    <weight weight="INC2_w">0.80</weight>
+    <weight31 weight31="INC2_w">0.80</weight31>
+    <correction correction="INC2_c">0.10</correction>
+    <correction31 correction31="INC2_c">0.10</correction31>
+    <range range="INC2_r">1.00</range>
+    <range31 range31="INC2_r">1.00</range31>
+  </char>
+  <char name="LANN1">
+    <value value="LANN1_v">0.5</value>
+    <weight weight="LANN1_w">0.30</weight>
+    <weight31 weight31="LANN1_w">0.30</weight31>
+    <correction correction="LANN1_c">0.20</correction>
+    <correction31 correction31="LANN1_c">0.20</correction31>
+    <range range="LANN1_r">1.00</range>
+    <range31 range31="LANN1_r">1.00</range31>
+  </char>
+  <char name="LANN2">
+    <value value="LANN2_v">NULL</value>
+    <weight weight="LANN2_w">0.30</weight>
+    <weight31 weight31="LANN2_w">0.30</weight31>
+    <correction correction="LANN2_c">0.20</correction>
+    <correction31 correction31="LANN2_c">0.20</correction31>
+    <range range="LANN2_r">1.00</range>
+    <range31 range31="LANN2_r">1.00</range31>
+  </char>
+  <char name="LANN3">
+    <value value="LANN3_v">NULL</value>
+    <weight weight="LANN3_w">0.30</weight>
+    <weight31 weight31="LANN3_w">0.30</weight31>
+    <correction correction="LANN3_c">0.20</correction>
+    <correction31 correction31="LANN3_c">0.20</correction31>
+    <range range="LANN3_r">1.00</range>
+    <range31 range31="LANN3_r">1.00</range31>
+  </char>
+  <char name="KBS1">
+    <value value="KBS1_v">NULL</value>
+    <weight weight="KBS1_w">0.10</weight>
+    <weight31 weight31="KBS1_w">0.10</weight31>
+    <correction correction="KBS1_c">0.20</correction>
+    <correction31 correction31="KBS1_c">0.20</correction31>
+    <range range="KBS1_r">1.00</range>
+    <range31 range31="KBS1_r">1.00</range31>
+  </char>
+  <char name="KBS2">
+    <value value="KBS2_v">NULL</value>
+    <weight weight="KBS2_w">0.10</weight>
+    <weight31 weight31="KBS2_w">0.10</weight31>
+    <correction correction="KBS2_c">0.20</correction>
+    <correction31 correction31="KBS2_c">0.20</correction31>
+    <range range="KBS2_r">1.00</range>
+    <range31 range31="KBS2_r">1.00</range31>
+  </char>
+  <char name="KBS3">
+    <value value="KBS3_v">NULL</value>
+    <weight weight="KBS3_w">0.10</weight>
+    <weight31 weight31="KBS3_w">0.10</weight31>
+    <correction correction="KBS3_c">0.20</correction>
+    <correction31 correction31="KBS3_c">0.20</correction31>
+    <range range="KBS3_r">1.00</range>
+    <range31 range31="KBS3_r">1.00</range31>
+  </char>
+  <char name="TSH1">
+    <value value="TSH1_v">NULL</value>
+    <weight weight="TSH1_w">0.60</weight>
+    <weight31 weight31="TSH1_w">0.60</weight31>
+    <correction correction="TSH1_c">0.25</correction>
+    <correction31 correction31="TSH1_c">0.25</correction31>
+    <range range="TSH1_r">1.00</range>
+    <range31 range31="TSH1_r">1.00</range31>
+  </char>
+  <char name="TSH2">
+    <value value="TSH2_v">NULL</value>
+    <weight weight="TSH2_w">0.60</weight>
+    <weight31 weight31="TSH2_w">0.60</weight31>
+    <correction correction="TSH2_c">0.25</correction>
+    <correction31 correction31="TSH2_c">0.25</correction31>
+    <range range="TSH2_r">1.00</range>
+    <range31 range31="TSH2_r">1.00</range31>
+  </char>
+  <char name="TSH3">
+    <value value="TSH3_v">NULL</value>
+    <weight weight="TSH3_w">0.60</weight>
+    <weight31 weight31="TSH3_w">0.60</weight31>
+    <correction correction="TSH3_c">0.25</correction>
+    <correction31 correction31="TSH3_c">0.25</correction31>
+    <range range="TSH3_r">1.00</range>
+    <range31 range31="TSH3_r">1.00</range31>
+  </char>
+  <char name="TSH4">
+    <value value="TSH4_v">NULL</value>
+    <weight weight="TSH4_w">0.60</weight>
+    <weight31 weight31="TSH4_w">0.60</weight31>
+    <correction correction="TSH4_c">0.25</correction>
+    <correction31 correction31="TSH4_c">0.25</correction31>
+    <range range="TSH4_r">1.00</range>
+    <range31 range31="TSH4_r">1.00</range31>
+  </char>
+  <char name="GENB1">
+    <value value="GENB1_v">NULL</value>
+    <weight weight="GENB1_w">1.00</weight>
+    <weight31 weight31="GENB1_w">1.00</weight31>
+    <correction correction="GENB1_c">0.00</correction>
+    <correction31 correction31="GENB1_c">0.00</correction31>
+    <range range="GENB1_r">1.00</range>
+    <range31 range31="GENB1_r">1.00</range31>
+  </char>
+  <char name="GENB2">
+    <value value="GENB2_v">NULL</value>
+    <weight weight="GENB2_w">1.00</weight>
+    <weight31 weight31="GENB2_w">1.00</weight31>
+    <correction correction="GENB2_c">0.00</correction>
+    <correction31 correction31="GENB2_c">0.00</correction31>
+    <range range="GENB2_r">1.00</range>
+    <range31 range31="GENB2_r">1.00</range31>
+  </char>
+  <char name="GENB3">
+    <value value="GENB3_v">NULL</value>
+    <weight weight="GENB3_w">1.00</weight>
+    <weight31 weight31="GENB3_w">1.00</weight31>
+    <correction correction="GENB3_c">0.00</correction>
+    <correction31 correction31="GENB3_c">0.00</correction31>
+    <range range="GENB3_r">1.00</range>
+    <range31 range31="GENB3_r">1.00</range31>
+  </char>
+</sample>
