@@ -1,4 +1,6 @@
+
 <?php 
+/*test github*/
 include('includes/haut.php');
 include('connectionSQL.php');
 connexion_bdd();
